@@ -72,10 +72,12 @@ The models were evaluated qualitatively based on generated images and training b
 ├── ae_results.png
 ├── vae_results.png
 ├── gan_results.png
+├── wgan_results.png
 ├── diffusion_results.png
 ├── ae_loss.png
 ├── vae_loss.png
 ├── gan_loss.png
+├── wgan_loss.png
 ├── diffusion_loss.png
 ├── report.pdf
 ├── face_generation.ipynb
